@@ -12,7 +12,8 @@ I designed and developed an interactive Power BI dashboard using historical data
 - Revenue per Available Room (RevPAR)
 - Market Share & Growth Trends
 - Booking Source Analysis
-  etc.
+
+  ![image](https://github.com/user-attachments/assets/a45c1116-2d17-49a8-a4d2-4b21bd35569d)
 
 ---
 
@@ -27,7 +28,7 @@ I designed and developed an interactive Power BI dashboard using historical data
 ![image](https://github.com/user-attachments/assets/0001edd6-2a81-41b1-b09e-4f918f9ef075)
 
 
-![Dashboard Preview](dashboard-preview.png)
+
 
 
 
