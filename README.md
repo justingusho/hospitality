@@ -24,11 +24,10 @@ I designed and developed an interactive Power BI dashboard using historical data
 
 ---
 
+![image](https://github.com/user-attachments/assets/0001edd6-2a81-41b1-b09e-4f918f9ef075)
 
 
+![Dashboard Preview](dashboard-preview.png)
 
-For questions or collaboration, feel free to reach out:
 
-- 📧 your.email@example.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)
 
